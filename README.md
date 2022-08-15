@@ -1,21 +1,18 @@
-### Hey I'm Giray
+# Hi, I'm Giray! 
 
-.is() {
-  Computer Engineering student based in Izmir
-}
+### .is() {
+Computer Engineering student based in Izmir
+#### }
 
-.learning() {
+### .learning() {
   NULL
-}
+### }
 
-.workingOn() {
+### .workingOn() {
   Portfolio website
-}
-
+### }
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=girayaksakal&theme=github_dark&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=girayaksakal&layout=compact)
-
 
 
 <!--
