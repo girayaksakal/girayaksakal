@@ -4,14 +4,6 @@
 Computer Engineering student based in Izmir
 #### }
 
-### .learning() {
-  Data Structures again
-### }
-
-### .workingOn() {
-  NULL
-### }
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=girayaksakal&theme=github_dark&show_icons=true&count_private=true)
 
 
