@@ -38,7 +38,7 @@ Brief description of the project. Highlight the impact or lessons learned.
 ## 📫 Contact
 Feel free to reach out to me at business@girayaksakal.dev.
 
----
+
 <!--
 
 # Hi, I'm Giray! 
